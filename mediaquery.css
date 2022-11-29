@@ -17,6 +17,10 @@
         justify-content: space-between;
         
     }
+    .order,.inventory
+    {
+       width: 80%;
+    }
     .mobile
     {
         display:inline;
